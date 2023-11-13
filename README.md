@@ -1,4 +1,7 @@
 # Portfolio Website
+<p align="center">
+<img src="https://github.com/kanchana66/portfolio./blob/main/html.css.png"/>
+</p>
 
 ## Overview
 
@@ -21,20 +24,13 @@ This is a simple portfolio website created using HTML, CSS, and JavaScript. The 
 
 To run the website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
+1. Clone the repository: `git clone https://github.com/kanchana66/portfolio.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
 Feel free to explore the website to learn more about my educational and professional journey. You can navigate through the different sections to discover projects and skills.
 
-## Contribution
-
-If you'd like to contribute or have suggestions for improvement, please open an issue or create a pull request. Your feedback is highly valued.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
