@@ -34,5 +34,5 @@ Feel free to explore the website to learn more about my educational and professi
 
 ## Contact
 
-- Your kanchana samarakoon
-- Your smtkanchana66@gmail.com
+- kanchana samarakoon
+- smtkanchana66@gmail.com
